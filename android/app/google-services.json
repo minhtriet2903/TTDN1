@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066422002143",
+    "firebase_url": "https://ttdn1todolist.firebaseio.com",
+    "project_id": "ttdn1todolist",
+    "storage_bucket": "ttdn1todolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066422002143:android:1649f205fb589af826246a",
+        "android_client_info": {
+          "package_name": "com.ttdn1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066422002143-psin8pgeslj8dbsdu7ojg6928aetrf3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PPl3nhw5Q_AB0dIc-6UTv6OsUBgFe4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066422002143-psin8pgeslj8dbsdu7ojg6928aetrf3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
